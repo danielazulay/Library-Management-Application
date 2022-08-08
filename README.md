@@ -1,25 +1,31 @@
 # Library Management Application
+Library aplication built in React, that keep track of the books that exist in the library. with the functionality of :<br />
+2.List of all available books.<br />
+3.Detailed about the book.<br />
+4. add, edit and delete.<br />
+5.Filter by name<br />
 
-![image](https://user-images.githubusercontent.com/28409805/183438946-7d02a4f6-2d37-431f-9ebb-934fa38b0a2e.png)
+
+![image](https://user-images.githubusercontent.com/28409805/183442274-532101ab-d31e-4b9d-b1d2-f1b6f708aa79.png)
 
 
 ## searching
 
-![image](https://user-images.githubusercontent.com/28409805/183439075-51562ac9-15a1-4500-b096-f9197acbe6ae.png)
+![image](https://user-images.githubusercontent.com/28409805/183442778-f356fea0-27d9-44e9-96a2-20c696f3f061.png)
 
 
 ### Adding new
 
-![image](https://user-images.githubusercontent.com/28409805/183439864-bec92598-b7b0-4450-a5c8-1433329a751b.png)
+![image](https://user-images.githubusercontent.com/28409805/183441329-4657a0e7-72f9-4881-8e7b-f50e8fb3e5b6.png)
 
 
 
 ### Deleting 
 
-![image](https://user-images.githubusercontent.com/28409805/183439995-26efcd5a-fe64-44d8-b16e-f244a186501c.png)
+![image](https://user-images.githubusercontent.com/28409805/183441878-716cf491-5f08-41e8-b666-a6ccddbc27d9.png)
 
 
 ### Editing
-![image](https://user-images.githubusercontent.com/28409805/183440172-cf50666f-ce61-4f1c-92b7-32817076bf4e.png)
+![image](https://user-images.githubusercontent.com/28409805/183442080-bc083885-ebfc-4127-914e-88466a126cfe.png)
 
 
