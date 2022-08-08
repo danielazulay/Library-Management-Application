@@ -1,0 +1,9 @@
+ul{
+    margin-top: 50px;
+    width: 380px;
+    font-size: 12px;
+}
+
+ul,li,button{
+   background-color: white;
+}
